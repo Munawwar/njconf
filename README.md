@@ -6,7 +6,7 @@ Simple node.js JSON5 config module.
 npm install njconf --save
 ```
 
-![It's Mixin' time!](https://media.giphy.com/media/5182loUnKvBCM/giphy.gif)
+<img src="http://i.giphy.com/l0MYR3EkfB9cd7YxW.gif">
 
 ### API
 
