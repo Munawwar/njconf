@@ -1,0 +1,27 @@
+{
+  "name": "njconf",
+  "version": "0.1.0",
+  "description": "Simple node.js JSON5 config module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Munawwar/njconf.git"
+  },
+  "keywords": [
+    "config",
+    "conf"
+  ],
+  "author": "Munawwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Munawwar/njconf/issues"
+  },
+  "homepage": "https://github.com/Munawwar/njconf#readme",
+  "dependencies": {
+    "deep-extend": "^0.4.1",
+    "json5": "^0.5.1"
+  }
+}
